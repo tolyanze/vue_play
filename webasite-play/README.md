@@ -1,4 +1,4 @@
-# vue_play
+# webasite-play
 
 ## Project setup
 ```
