@@ -11,7 +11,7 @@ import PlayOne from '@/components/PlayOne.vue'
 export default {
   name: 'HomeView',
   components: {
-    PlayOne
+    PlayOne,
   }
 }
 </script>
